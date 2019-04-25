@@ -10,11 +10,9 @@ A **CSS Module** is a CSS file in which all class names and animation names are 
 
 :open_file_folder: NavBar
 
-|
+|-- :page_with_curl: [NavBar.js](./examples/src/components/Navbar/Navbar.js)
 
-|- :page_with_curl: [NavBar.js](./examples/src/components/Navbar/Navbar.js)
-
-|- :page_with_curl: [Navbar.module.css](./examples/src/components/Navbar/Navbar.module.css)
+|-- :page_with_curl: [Navbar.module.css](./examples/src/components/Navbar/Navbar.module.css)
 
 ---
 
